@@ -5,7 +5,7 @@ package com.desirephoto.game.pixel.activity;
  */
 
 public class LoginActivity extends BaseAppCompatActivity implements ClientStandard.OnLoginResultListener, RtResultCallbackListener {   
-
+sjadfdfadsffdfd
     @OnClick({R.id.login_facebook, R.id.login_google})
     public void OnClick(View view) {
         switch (view.getId()) {
